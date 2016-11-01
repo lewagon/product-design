@@ -10,11 +10,5 @@ This is the material for the Product Design Sprint at Le Wagon.
 
 If you need a kickstart training on these tools.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zR-6RW3kHyM" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MFIlW68giDY" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
+- Watch [Sketch 15 minutes tutorial](https://www.youtube.com/watch?v=zR-6RW3kHyM)
+- Watch [Marvelapp 5 minutes tutorial](https://www.youtube.com/watch?v=MFIlW68giDY)
